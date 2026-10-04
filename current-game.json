@@ -1,1 +1,454 @@
-{"schema_version":2,"status":"daily","pack_id":"2026-09-29-daily-v2","input_pack_id":"2026-09-29-input-v2","generated_at":"2026-09-29T05:30:30-04:00","game_date":"2026-09-29","candidate_characters":[{"character_id":"julius-caesar","name":"Julius Caesar","archetype":"General / statesman","personality_summary":"Bold, decisive, ambitious, practical, and highly attentive to momentum, loyalty, and the political value of visible success."},{"character_id":"avicenna","name":"Avicenna / Ibn Sina","archetype":"Physician / philosopher","personality_summary":"Systematic, learned, humane, analytical, and comfortable integrating practical evidence with abstract reasoning."},{"character_id":"alice","name":"Alice","archetype":"Curious child / traveler","personality_summary":"Curious, practical, skeptical of nonsense, adaptable, candid, and willing to question rules that make no sense."},{"character_id":"athena","name":"Athena","archetype":"Goddess of wisdom / strategy","personality_summary":"Strategic, rational, orderly, pragmatic, and comfortable making difficult judgments with a long view."},{"character_id":"loki","name":"Loki","archetype":"Trickster","personality_summary":"Playful, rebellious, clever, provocative, self-interested, and fascinated by exposing how fragile rules and identities can be."},{"character_id":"mansa-musa","name":"Mansa Musa","archetype":"Emperor / patron","personality_summary":"Generous, dignified, civic-minded, institutionally confident, and attentive to how wealth can build lasting public capacity."}],"usernames":["red","blue","green","yellow","purple"],"threads":[{"thread_id":"thread-01","category":"technology/AI business","news":{"headline":"Anthropic's IPO prospectus shows sweeping AI vision, surging costs","publisher":"Reuters","published_at":"2026-09-28T23:17:00Z","url":"https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/","summary":"Anthropic's IPO prospectus describes rapid growth alongside extraordinary spending and losses as the AI lab prepares for a possible public offering. The filing also places the company's commercial ambitions beside risks its own research has identified from increasingly autonomous AI systems.","verified_facts":["The prospectus could support a valuation above $2 trillion.","Anthropic reported a roughly $42 billion net loss for 2025, including about $34 billion in an accounting charge tied largely to financing liabilities.","Revenue grew about twelvefold in 2025 to nearly $4.6 billion, while operating loss exceeded $8 billion.","Anthropic spent $7.33 billion on compute and infrastructure in 2025, more than half of its $12.65 billion total operating expenses.","The prospectus says nearly a quarter of 2025 revenue came from two customers."],"source_note":"Reuters reported these figures from an IPO prospectus it reviewed; Anthropic declined to comment. The roughly $42 billion net-loss figure includes a large non-operating accounting charge and should not be treated as equivalent to cash burned running the business."},"comments":[{"comment_id":"t1-c1","parent_comment_id":null,"username":"blue","text":"The scale is impressive, but the categories matter. A large accounting charge is not the same thing as operating expenditure; the operating loss and infrastructure spend tell us more about the underlying activity.","reactions":[{"username":"green","emoji":"👍"}]},{"comment_id":"t1-c2","parent_comment_id":"t1-c1","username":"red","text":"Sure, but $4.6B revenue after twelvefold growth says the thing has momentum. If you're going public, the question is whether you can turn that momentum into durable advantage before the spending catches you.","reactions":[{"username":"purple","emoji":"🤔"}]},{"comment_id":"t1-c3","parent_comment_id":null,"username":"yellow","text":"wait—nearly a quarter of revenue is TWO customers? everyone is staring at the giant loss number and that part made me go 😬","reactions":[]},{"comment_id":"t1-c4","parent_comment_id":"t1-c3","username":"purple","text":"That concentration concerns me as well. Growth is strongest when it builds a broad base that can support the institution through changing conditions.","reactions":[{"username":"yellow","emoji":"👍"}]},{"comment_id":"t1-c5","parent_comment_id":"t1-c3","username":"green","text":"Counterpoint: two customers paying a quarter of the bill is efficient. Simply persuade them never to leave. Business solved.","reactions":[{"username":"yellow","emoji":"😂"},{"username":"red","emoji":"😂"}]},{"comment_id":"t1-c6","parent_comment_id":"t1-c5","username":"blue","text":"That is, unfortunately, a useful illustration of concentration risk.","reactions":[{"username":"purple","emoji":"😂"}]}]},{"thread_id":"thread-02","category":"public health","news":{"headline":"Pennsylvania measles cases cross 900 as outbreak grows","publisher":"Reuters","published_at":"2026-09-28T18:33:00Z","url":"https://www.reuters.com/legal/litigation/pennsylvania-measles-cases-cross-900-outbreak-grows-2026-09-28/","summary":"Pennsylvania's measles outbreak reached 903 reported cases on Monday after 68 new infections since the prior Wednesday. Hospitalizations have also risen, while officials continue to dispute how some recent deaths should be classified as measles-related.","verified_facts":["Pennsylvania reported 903 measles cases as of September 28, including 68 newly reported since the prior Wednesday.","The state health department reported 176 measles patients had been hospitalized, up from 164 on September 23.","Lancaster County remained the hardest-hit county in the state.","The United States had recorded 3,659 measles cases in 2026 as of September 24, according to CDC data.","Two doses of the routine MMR vaccine provide about 97% protection against measles."],"source_note":"Case and hospitalization totals were reported by Reuters from Pennsylvania health department data. Pennsylvania had reported four measles-related deaths among unvaccinated residents, but state and federal officials disputed direct attribution; the CDC website listed one verified measles death without confirming its location."},"comments":[{"comment_id":"t2-c1","parent_comment_id":null,"username":"blue","text":"The practical signal is unusually clear here: 903 reported cases, rising hospitalizations, and a routine two-dose vaccine with about 97% protection. One should be careful with disputed death attribution without allowing that dispute to obscure the much stronger evidence.","reactions":[{"username":"purple","emoji":"👍"}]},{"comment_id":"t2-c2","parent_comment_id":"t2-c1","username":"yellow","text":"yes. arguing over the exact label on the deaths while 176 people have been hospitalized feels like missing the very large obvious thing in front of you.","reactions":[{"username":"red","emoji":"👍"}]},{"comment_id":"t2-c3","parent_comment_id":null,"username":"purple","text":"Prevention is also an investment in shared capacity. Vaccination protects individuals, but its value is larger when communities can keep schools, clinics, and ordinary life functioning.","reactions":[{"username":"blue","emoji":"❤️"}]},{"comment_id":"t2-c4","parent_comment_id":"t2-c3","username":"green","text":"I was promised modern civilization and instead we are speedrunning old problems.","reactions":[{"username":"yellow","emoji":"😂"}]},{"comment_id":"t2-c5","parent_comment_id":null,"username":"red","text":"At some point you stop debating whether the trend is bad enough and act. Cases are up, hospitalizations are up. Get resources where the outbreak is worst and push the thing that works.","reactions":[{"username":"purple","emoji":"👍"}]}]},{"thread_id":"thread-03","category":"transportation/climate policy","news":{"headline":"US finalizes new lower fuel economy standards in boost for gas-powered vehicles","publisher":"Reuters","published_at":"2026-09-28T12:52:00Z","url":"https://www.reuters.com/business/autos-transportation/us-finalizes-new-lower-fuel-economy-standards-2026-09-28/","summary":"The U.S. Transportation Department finalized substantially lower vehicle fuel-economy requirements, reversing the prior administration's push toward higher efficiency and more EV adoption. The department estimates lower compliance and vehicle costs but higher lifetime fuel use and carbon emissions.","verified_facts":["The finalized fleetwide target is 34.9 miles per gallon by 2031, down from 50.4 mpg under the prior standards.","USDOT estimates manufacturer compliance costs will fall by an average of $1,289 per vehicle.","USDOT estimates lifetime fuel costs will rise by more than $1,600 per vehicle.","USDOT projects U.S. gasoline consumption will be 4.6% higher through 2050 than under the prior rules.","The rules end automaker fuel-economy credit trading in 2028."],"source_note":"Cost, fuel-use and sales effects are USDOT estimates reported by Reuters, not independently observed future outcomes. Automakers' trade group supported the change, while environmental groups opposed it and said they would challenge the rollback."},"comments":[{"comment_id":"t3-c1","parent_comment_id":null,"username":"yellow","text":"So compliance gets about $1,289 cheaper per vehicle, but projected lifetime fuel gets more than $1,600 more expensive? Am I doing something wrong or is that a very strange definition of cheaper?","reactions":[{"username":"green","emoji":"😂"},{"username":"blue","emoji":"🤔"}]},{"comment_id":"t3-c2","parent_comment_id":"t3-c1","username":"blue","text":"You are identifying the distinction correctly. The costs occur in different places and at different times: manufacturer compliance cost is not interchangeable with the owner's lifetime fuel expense.","reactions":[{"username":"yellow","emoji":"👍"}]},{"comment_id":"t3-c3","parent_comment_id":null,"username":"red","text":"Standards should produce something people can actually build and buy. But if the policy saves $1,289 up front and adds more than $1,600 later, supporters need a better victory lap than 'costs fell.'","reactions":[{"username":"green","emoji":"👍"}]},{"comment_id":"t3-c4","parent_comment_id":"t3-c3","username":"green","text":"Easy fix: only count the number that makes your argument look good. This technique has excellent bipartisan fuel economy.","reactions":[{"username":"yellow","emoji":"😂"},{"username":"purple","emoji":"😬"}]},{"comment_id":"t3-c5","parent_comment_id":null,"username":"purple","text":"The 4.6% projected increase in gasoline use through 2050 is the part I would not treat as an accounting footnote. A policy should be judged by what costs and capabilities it leaves to the public over time.","reactions":[{"username":"blue","emoji":"👍"}]}]},{"thread_id":"thread-04","category":"weather/infrastructure","news":{"headline":"Thai Airways cuts flights, battles baggage chaos as Bangkok floods ease","publisher":"Reuters","published_at":"2026-09-29T03:37:00Z","url":"https://www.reuters.com/business/environment/thailand-expects-clear-bangkok-floodwater-two-three-days-government-says-2026-09-29/","summary":"Severe rain and flooding continued to disrupt Bangkok and Thai Airways even as officials expected floodwater to recede if further heavy rain stayed away. The airline planned major flight reductions while Thailand approved immediate flood funding and a much larger long-term drainage project.","verified_facts":["Thai Airways planned to cut about 30 Bangkok departures on September 29, roughly 30% of its planned departures, for at least three days.","Bangkok received about 320 mm of rain over two to three days, nearly its usual total for the whole month of September.","At least 23 people had died across Thailand from heavy rain and floods affecting 42 provinces since September 16.","About 5,600 Thai Airways bags remained stranded at Suvarnabhumi Airport, with the airline saying it expected to clear them within 72 hours.","Thailand's cabinet approved more than 4 billion baht for flood impacts and approved a 160 billion baht long-term drainage project."],"source_note":"Rainfall, deaths, operational disruption and funding figures were reported by Reuters from Thai officials and Thai Airways. The government's expectation that Bangkok floodwater would recede within three days was conditional on no additional rain."},"comments":[{"comment_id":"t4-c1","parent_comment_id":null,"username":"red","text":"Cut the flights, clear the stranded bags, move emergency money now, then fix drainage for the next storm. That's the right order: stabilize first, rebuild stronger second.","reactions":[{"username":"purple","emoji":"👍"}]},{"comment_id":"t4-c2","parent_comment_id":"t4-c1","username":"green","text":"5,600 stranded bags is not baggage handling, it is a new temporary civilization.","reactions":[{"username":"yellow","emoji":"😂"}]},{"comment_id":"t4-c3","parent_comment_id":null,"username":"blue","text":"The rainfall context is important: roughly 320 mm in two to three days, near the usual September total. Systems can be overwhelmed by an extreme load without that fact absolving planners from preparing for recurrence.","reactions":[{"username":"purple","emoji":"👍"}]},{"comment_id":"t4-c4","parent_comment_id":"t4-c3","username":"yellow","text":"That's what I was wondering. If the water goes down in three days only *if it stops raining*, that sounds less like 'problem solved' and more like 'please let the weather cooperate.'","reactions":[]},{"comment_id":"t4-c5","parent_comment_id":null,"username":"purple","text":"Immediate relief and a 160 billion baht drainage project answer different needs. The larger test will be whether the long-term spending creates durable protection rather than merely repairing what was lost.","reactions":[{"username":"red","emoji":"👍"}]},{"comment_id":"t4-c6","parent_comment_id":"t4-c5","username":"green","text":"I support infrastructure whose success condition is 'fewer people discover their suitcase has begun an independent journey.'","reactions":[{"username":"yellow","emoji":"😂"}]}]}]}
+{
+  "schema_version": 2,
+  "status": "daily",
+  "pack_id": "2026-10-03-daily-v2",
+  "input_pack_id": "2026-10-03-input-v3",
+  "generated_at": "2026-10-03T22:14:00-04:00",
+  "game_date": "2026-10-03",
+  "candidate_characters": [
+    {
+      "character_id": "florence-nightingale",
+      "name": "Florence Nightingale",
+      "archetype": "Nurse / statistician / reformer",
+      "personality_summary": "Evidence-driven, practical, compassionate, organized, and strongly focused on measurable human outcomes and preventable harm."
+    },
+    {
+      "character_id": "sherlock-holmes",
+      "name": "Sherlock Holmes",
+      "archetype": "Detective",
+      "personality_summary": "Analytical, skeptical, independent, confident, observant, and inclined to separate evidence from the story people build around it."
+    },
+    {
+      "character_id": "dorothy-gale",
+      "name": "Dorothy Gale",
+      "archetype": "Practical young traveler",
+      "personality_summary": "Warm, optimistic, practical, empathetic, and refreshingly unimpressed by pomp or overly complicated explanations."
+    },
+    {
+      "character_id": "machiavelli",
+      "name": "Niccolò Machiavelli",
+      "archetype": "Political thinker",
+      "personality_summary": "Cynical, strategic, observant about incentives, and consistently interested in who benefits from a narrative, rule, or public performance."
+    },
+    {
+      "character_id": "benjamin-franklin",
+      "name": "Benjamin Franklin",
+      "archetype": "Inventor / diplomat",
+      "personality_summary": "Practical, sociable, inventive, optimistic, civic-minded, and fond of small improvements that make systems work better."
+    },
+    {
+      "character_id": "charles-darwin",
+      "name": "Charles Darwin",
+      "archetype": "Naturalist",
+      "personality_summary": "Patient, observant, cautious about overclaiming, interested in variation and repeated patterns, and willing to revise a conclusion as evidence accumulates."
+    }
+  ],
+  "usernames": [
+    "red",
+    "blue",
+    "green",
+    "yellow",
+    "purple"
+  ],
+  "threads": [
+    {
+      "thread_id": "thread-01",
+      "category": "Technology / Economics",
+      "news": {
+        "headline": "AI's race to transform the world before the money runs out",
+        "publisher": "Reuters",
+        "published_at": "2026-10-03T05:06:40Z",
+        "url": "https://www.reuters.com/business/retail-consumer/ais-race-transform-world-before-money-runs-out-2026-10-03/",
+        "summary": "AI infrastructure spending is reaching historic scale, but economists and investors are questioning whether productivity gains and new revenue will arrive fast enough to justify the buildout.",
+        "verified_facts": [
+          "PwC projects cumulative global data-center spending could top $30 trillion by 2050.",
+          "An Anthropic IPO prospectus reviewed by Reuters says the company plans to spend $518 billion in coming years, more than 100 times its 2025 revenue.",
+          "A Bain & Company study says AI hyperscalers and others would need more than $4.2 trillion in new revenue over the next five years to fund the buildout.",
+          "JPMorgan has said broad-based U.S. productivity gains from AI remain limited so far.",
+          "Cambridge economist Diane Coyle told Reuters that past revolutionary technologies often took roughly 10 to 50 years to produce their full productivity effects."
+        ],
+        "source_note": "Reuters analysis published Oct. 3, 2026, drawing on PwC, Anthropic's prospectus, JPMorgan, Bain & Company, and academic economists."
+      },
+      "comments": [
+        {
+          "comment_id": "t1-c1",
+          "parent_comment_id": null,
+          "username": "red",
+          "text": "The optimistic case and the financing case are different things. A technology can be genuinely useful while every company still has an incentive to describe the next five years as inevitable. The part I want watched is who benefits if everyone believes the buildout cannot slow down.",
+          "reactions": [
+            {
+              "username": "purple",
+              "emoji": "🤔"
+            }
+          ]
+        },
+        {
+          "comment_id": "t1-c2",
+          "parent_comment_id": "t1-c1",
+          "username": "purple",
+          "text": "Yeah. And $30 trillion is the kind of number where I immediately want the boring question: what gets cheaper per unit of useful work? If the answer is “not much yet,” maybe spend a little more time on efficiency and a little less on giant server bills lol.",
+          "reactions": [
+            {
+              "username": "blue",
+              "emoji": "👍"
+            }
+          ]
+        },
+        {
+          "comment_id": "t1-c3",
+          "parent_comment_id": null,
+          "username": "green",
+          "text": "I'm not ready to call it a bubble from one snapshot. The more useful test is whether returns improve as deployment matures, and whether that happens broadly rather than in a few firms. We may need several years of repeated data before the label is useful.",
+          "reactions": []
+        },
+        {
+          "comment_id": "t1-c4",
+          "parent_comment_id": "t1-c3",
+          "username": "blue",
+          "text": "I feel like everybody is arguing about $30 trillion and I just want to know what normal people are actually getting for it. Is work easier? Is stuff cheaper? If not, that's a pretty fair question.",
+          "reactions": [
+            {
+              "username": "yellow",
+              "emoji": "👍"
+            }
+          ]
+        },
+        {
+          "comment_id": "t1-c5",
+          "parent_comment_id": "t1-c4",
+          "username": "yellow",
+          "text": "That is the part the headline numbers can obscure. If companies claim productivity gains, track the outcomes directly: time saved, error rates, hiring, service quality, and who absorbs the failures. Otherwise “productivity” becomes a word everyone can point at without measuring.",
+          "reactions": [
+            {
+              "username": "green",
+              "emoji": "👍"
+            }
+          ]
+        },
+        {
+          "comment_id": "t1-c6",
+          "parent_comment_id": "t1-c3",
+          "username": "purple",
+          "text": "Fair. The annoying middle answer may be “some investors overpay and the infrastructure is still useful later.” That has happened with earlier technology buildouts too.",
+          "reactions": [
+            {
+              "username": "green",
+              "emoji": "🤔"
+            }
+          ]
+        },
+        {
+          "comment_id": "t1-c7",
+          "parent_comment_id": "t1-c6",
+          "username": "red",
+          "text": "Exactly. The technology does not have to fail for the financing story to fail.",
+          "reactions": [
+            {
+              "username": "blue",
+              "emoji": "👍"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "thread_id": "thread-02",
+      "category": "Environment / Climate",
+      "news": {
+        "headline": "What to know about the Kelvin wave raising the sea level along the West Coast",
+        "publisher": "Associated Press",
+        "published_at": "2026-10-03T12:28:11Z",
+        "url": "https://apnews.com/article/el-nino-kelvin-waves-flooding-west-coast-52246a73e6842e4561b5195df526dd8e",
+        "summary": "Kelvin waves associated with a strong El Niño are expected to raise baseline sea levels along the U.S. West Coast, increasing erosion and flooding risk when combined with tides, storms and larger waves.",
+        "verified_facts": [
+          "AP reports the current surge is expected to raise sea level about 6 to 12 inches as it moves north along the California coast toward Oregon and Washington.",
+          "Experts said the surge is moving north at about 6 miles per hour and that additional Kelvin waves could continue from October through February.",
+          "Kelvin waves do not act like tsunamis; they raise the baseline sea level, which can amplify high tides, storm surge and coastal flooding.",
+          "The waves can also increase ocean temperatures and push cold, nutrient-rich water deeper below the surface.",
+          "California declared a state of emergency in late September to speed preparations for a potentially severe El Niño season."
+        ],
+        "source_note": "Associated Press explainer published Oct. 3, 2026, based on NOAA, USGS and university ocean-science experts plus state and local officials."
+      },
+      "comments": [
+        {
+          "comment_id": "t2-c1",
+          "parent_comment_id": null,
+          "username": "green",
+          "text": "The useful distinction here is that the Kelvin wave is raising the baseline, not guaranteeing a flood by itself. Actual damage still depends on tides, storms and the later waves. That uncertainty is real, but it is not evidence of zero risk.",
+          "reactions": [
+            {
+              "username": "yellow",
+              "emoji": "👍"
+            }
+          ]
+        },
+        {
+          "comment_id": "t2-c2",
+          "parent_comment_id": "t2-c1",
+          "username": "blue",
+          "text": "So basically the water starts 6-ish inches higher and then a bad tide or storm piles on top? That's way less movie-like than the word “wave” made me think 😂",
+          "reactions": [
+            {
+              "username": "purple",
+              "emoji": "😂"
+            }
+          ]
+        },
+        {
+          "comment_id": "t2-c3",
+          "parent_comment_id": "t2-c2",
+          "username": "yellow",
+          "text": "Right, and that is why preparation before the worst day matters. A modest rise in the starting point can matter a lot when beaches, homes or infrastructure are already close to the threshold for damage.",
+          "reactions": []
+        },
+        {
+          "comment_id": "t2-c4",
+          "parent_comment_id": null,
+          "username": "purple",
+          "text": "This feels like the classic case where boring prep beats heroic cleanup. Put resources in early, tell people which tides and storms are the dangerous combinations, and save the dramatic speeches for later.",
+          "reactions": [
+            {
+              "username": "blue",
+              "emoji": "👍"
+            }
+          ]
+        },
+        {
+          "comment_id": "t2-c5",
+          "parent_comment_id": "t2-c4",
+          "username": "red",
+          "text": "The emergency declaration also creates political room to move faster. The question is whether that speed reaches the most exposed places or simply the places with the strongest pull.",
+          "reactions": [
+            {
+              "username": "purple",
+              "emoji": "🤔"
+            }
+          ]
+        },
+        {
+          "comment_id": "t2-c6",
+          "parent_comment_id": "t2-c1",
+          "username": "green",
+          "text": "Also worth remembering that this is a sequence, not a single event. If more waves arrive through winter, the baseline and the condition of the beaches can change between one storm and the next.",
+          "reactions": [
+            {
+              "username": "yellow",
+              "emoji": "👍"
+            }
+          ]
+        },
+        {
+          "comment_id": "t2-c7",
+          "parent_comment_id": "t2-c6",
+          "username": "blue",
+          "text": "yep. “we don't know exactly how bad” and “do nothing” are very different sentences.",
+          "reactions": []
+        }
+      ]
+    },
+    {
+      "thread_id": "thread-03",
+      "category": "Sports / Integrity",
+      "news": {
+        "headline": "Man City appeal Premier League financial ruling",
+        "publisher": "Reuters",
+        "published_at": "2026-10-02T10:58:56Z",
+        "url": "https://www.reuters.com/sports/soccer/man-city-appeal-premier-league-financial-ruling-2026-10-02/",
+        "summary": "Manchester City has appealed an independent commission ruling that found serious Premier League financial-rule breaches, while the club continues to deny wrongdoing and possible sanctions remain unresolved.",
+        "verified_facts": [
+          "Manchester City said it lodged its appeal on Oct. 1, 2026.",
+          "The commission found the club guilty of financial-rule breaches across nine seasons from 2009-10 through 2017-18, plus three of four charges related to failure to cooperate.",
+          "The Premier League said schemes involving sham commercial contracts inflated revenue and understated costs by more than £900 million.",
+          "Manchester City denies wrongdoing and says the ruling contains material errors of law, principle and fact.",
+          "The appeal will be heard by an independent three-member board; under the league's fast-track rules, the hearing should occur within 12 weeks and a decision is due within 30 days after it concludes."
+        ],
+        "source_note": "Reuters report published Oct. 2, 2026, citing Manchester City, the Premier League, the Football Association and the independent-appeal process."
+      },
+      "comments": [
+        {
+          "comment_id": "t3-c1",
+          "parent_comment_id": null,
+          "username": "red",
+          "text": "The appeal is unsurprising. With penalties this large, every incentive points toward challenging the ruling as long as a viable process remains. The more interesting question is what punishment actually deters a club if the competitive advantage was enjoyed years earlier.",
+          "reactions": [
+            {
+              "username": "purple",
+              "emoji": "👍"
+            }
+          ]
+        },
+        {
+          "comment_id": "t3-c2",
+          "parent_comment_id": null,
+          "username": "blue",
+          "text": "I don't follow soccer super closely, but if the rules were broken for nine seasons, how do you even make that fair now? Taking points today hits people who weren't making those decisions back then.",
+          "reactions": [
+            {
+              "username": "yellow",
+              "emoji": "🤔"
+            }
+          ]
+        },
+        {
+          "comment_id": "t3-c3",
+          "parent_comment_id": "t3-c2",
+          "username": "green",
+          "text": "I'd separate two questions: what the commission found, and what sanction best fits it. The appeal is still unresolved, and the size of the alleged financial misstatement does not automatically tell us the right sporting remedy.",
+          "reactions": [
+            {
+              "username": "blue",
+              "emoji": "👍"
+            }
+          ]
+        },
+        {
+          "comment_id": "t3-c4",
+          "parent_comment_id": "t3-c3",
+          "username": "yellow",
+          "text": "Agreed. Any remedy should explain the harm it is trying to correct and who bears the cost. A punishment can be severe and still be poorly targeted.",
+          "reactions": []
+        },
+        {
+          "comment_id": "t3-c5",
+          "parent_comment_id": "t3-c1",
+          "username": "purple",
+          "text": "Also, a rule nobody can verify until a decade later is partly a systems problem. If enforcement only works after years of lawyers, the incentive design is doing a lot of unpaid overtime.",
+          "reactions": [
+            {
+              "username": "blue",
+              "emoji": "😂"
+            }
+          ]
+        },
+        {
+          "comment_id": "t3-c6",
+          "parent_comment_id": "t3-c5",
+          "username": "red",
+          "text": "Exactly. If the expected penalty is smaller than the advantage of succeeding, a rule can become a price rather than a constraint.",
+          "reactions": [
+            {
+              "username": "yellow",
+              "emoji": "👍"
+            }
+          ]
+        },
+        {
+          "comment_id": "t3-c7",
+          "parent_comment_id": "t3-c4",
+          "username": "blue",
+          "text": "Honestly I think that's what bugs me. “Make it hurt” is easy. “Make it fair” is the hard part.",
+          "reactions": [
+            {
+              "username": "green",
+              "emoji": "👍"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "thread_id": "thread-04",
+      "category": "Global Health",
+      "news": {
+        "headline": "France to step up Ebola funding in Congo amid resurgence fears, minister says",
+        "publisher": "Reuters",
+        "published_at": "2026-10-03T13:45:42Z",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/france-step-up-ebola-funding-congo-amid-resurgence-fears-minister-says-2026-10-03/",
+        "summary": "France says it will increase support for Ebola-control efforts in eastern Democratic Republic of Congo, arguing that continued vigilance is needed even after recent containment success.",
+        "verified_facts": [
+          "France allocated €13.4 million to Ebola-response efforts between January and July 2026.",
+          "French Foreign Minister Jean-Noel Barrot said he would propose additional humanitarian funding during upcoming budget discussions.",
+          "France's support has included humanitarian aid, medical research and the PRISM programme.",
+          "A laboratory-confirmed mpox case was identified in Bunia in mid-September.",
+          "Barrot praised Congolese authorities, U.N. agencies, humanitarian organizations and medical workers for containing the epidemic and preventing spread to major urban centers."
+        ],
+        "source_note": "Reuters report published Oct. 3, 2026, from Foreign Minister Jean-Noel Barrot's visit to Bunia and French funding figures."
+      },
+      "comments": [
+        {
+          "comment_id": "t4-c1",
+          "parent_comment_id": null,
+          "username": "yellow",
+          "text": "This is one of those cases where the success condition is easy to undervalue: contain the outbreak before it becomes a much larger human crisis. Continued funding after containment is not wasted money; it is how you avoid paying in lives for the next delay.",
+          "reactions": [
+            {
+              "username": "blue",
+              "emoji": "❤️"
+            }
+          ]
+        },
+        {
+          "comment_id": "t4-c2",
+          "parent_comment_id": "t4-c1",
+          "username": "blue",
+          "text": "€13.4 million sounds huge until you compare it with what a spreading outbreak could cost. I'd much rather spend early and never get the dramatic story.",
+          "reactions": [
+            {
+              "username": "purple",
+              "emoji": "👍"
+            }
+          ]
+        },
+        {
+          "comment_id": "t4-c3",
+          "parent_comment_id": "t4-c2",
+          "username": "purple",
+          "text": "Prevention has a terrible marketing department 😂. If it works, the headline is basically “nothing awful happened.”",
+          "reactions": [
+            {
+              "username": "blue",
+              "emoji": "😂"
+            },
+            {
+              "username": "green",
+              "emoji": "👍"
+            }
+          ]
+        },
+        {
+          "comment_id": "t4-c4",
+          "parent_comment_id": "t4-c3",
+          "username": "red",
+          "text": "Which is exactly why funding can disappear. Successful prevention removes the visible crisis that created the political incentive to fund it in the first place.",
+          "reactions": [
+            {
+              "username": "yellow",
+              "emoji": "🤔"
+            }
+          ]
+        },
+        {
+          "comment_id": "t4-c5",
+          "parent_comment_id": null,
+          "username": "green",
+          "text": "I'd still be cautious about treating one contained period as proof that the system is secure. The stronger evidence is whether surveillance and response keep working across repeated flare-ups and changing conditions.",
+          "reactions": [
+            {
+              "username": "yellow",
+              "emoji": "👍"
+            }
+          ]
+        },
+        {
+          "comment_id": "t4-c6",
+          "parent_comment_id": "t4-c5",
+          "username": "yellow",
+          "text": "Agreed. Readiness is a system, not a victory lap. The article gives only a partial window, but proposing more support after containment is exactly when you want to ask whether capacity will be sustained.",
+          "reactions": []
+        },
+        {
+          "comment_id": "t4-c7",
+          "parent_comment_id": "t4-c6",
+          "username": "blue",
+          "text": "And the mpox case in the same city is a good reminder that local health teams don't get one problem at a time.",
+          "reactions": [
+            {
+              "username": "purple",
+              "emoji": "👍"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
