@@ -1,0 +1,15 @@
+{
+  "schema_version": 2,
+  "status": "daily",
+  "pack_id": "2026-10-03-daily-v2",
+  "input_pack_id": "2026-10-03-input-v3",
+  "game_date": "2026-10-03",
+  "mapping": {
+    "red": "machiavelli",
+    "blue": "dorothy-gale",
+    "green": "charles-darwin",
+    "yellow": "florence-nightingale",
+    "purple": "benjamin-franklin"
+  },
+  "decoy_character_id": "sherlock-holmes"
+}
