@@ -1,15 +1,15 @@
 {
   "schema_version": 2,
   "status": "daily",
-  "pack_id": "2026-10-06-daily-v2",
-  "input_pack_id": "2026-10-06-input-v3",
-  "game_date": "2026-10-06",
+  "pack_id": "2026-10-04-daily-v2",
+  "input_pack_id": "2026-10-04-input-v3",
+  "game_date": "2026-10-04",
   "mapping": {
-    "red": "florence-nightingale",
-    "blue": "leonardo-da-vinci",
-    "green": "machiavelli",
-    "yellow": "dorothy-gale",
+    "red": "cleopatra-vii",
+    "blue": "alice",
+    "green": "socrates",
+    "yellow": "harriet-tubman",
     "purple": "ebenezer-scrooge"
   },
-  "decoy_character_id": "charles-darwin"
+  "decoy_character_id": "athena"
 }
