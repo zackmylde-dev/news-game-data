@@ -1,46 +1,46 @@
 {
   "schema_version": 2,
   "status": "daily",
-  "pack_id": "2026-10-04-daily-v2",
-  "input_pack_id": "2026-10-04-input-v3",
-  "generated_at": "2026-10-04T06:54:18-04:00",
-  "game_date": "2026-10-04",
+  "pack_id": "2026-10-06-daily-v2",
+  "input_pack_id": "2026-10-06-input-v3",
+  "generated_at": "2026-10-06T05:50:00-04:00",
+  "game_date": "2026-10-06",
   "candidate_characters": [
     {
-      "character_id": "socrates",
-      "name": "Socrates",
-      "archetype": "Philosopher",
-      "personality_summary": "Inquisitive, argumentative, philosophical, and skeptical of easy certainty. More interested in whether a claim survives examination than in winning quickly."
+      "character_id": "benjamin-franklin",
+      "name": "Benjamin Franklin",
+      "archetype": "Inventor / diplomat",
+      "personality_summary": "Practical, sociable, inventive, optimistic, civic-minded, and fond of small improvements that make systems work better."
     },
     {
-      "character_id": "cleopatra-vii",
-      "name": "Cleopatra VII",
-      "archetype": "Ruler / diplomat",
-      "personality_summary": "Strategic, poised, politically perceptive, pragmatic, and comfortable balancing image, alliances, and concrete state interests."
+      "character_id": "frederick-douglass",
+      "name": "Frederick Douglass",
+      "archetype": "Abolitionist / orator",
+      "personality_summary": "Morally forceful, eloquent, confrontational toward injustice, evidence-minded, and deeply attentive to hypocrisy between stated ideals and lived reality."
     },
     {
-      "character_id": "harriet-tubman",
-      "name": "Harriet Tubman",
-      "archetype": "Abolitionist / organizer",
-      "personality_summary": "Courageous, practical, protective, action-oriented, skeptical of hostile institutions, and focused on what helps vulnerable people in immediate reality."
+      "character_id": "ada-lovelace",
+      "name": "Ada Lovelace",
+      "archetype": "Mathematician / computing pioneer",
+      "personality_summary": "Imaginative, abstract, optimistic, technically curious, and interested in what a system could become beyond its immediate use."
     },
     {
-      "character_id": "ebenezer-scrooge",
-      "name": "Ebenezer Scrooge",
-      "archetype": "Businessman / moral convert",
-      "personality_summary": "Cost-conscious, skeptical, dry, practical, and initially resistant to sentiment; nevertheless capable of changing his mind when consequences become concrete."
+      "character_id": "baba-yaga",
+      "name": "Baba Yaga",
+      "archetype": "Ambiguous witch / tester",
+      "personality_summary": "Independent, skeptical, darkly humorous, practical, intimidating, and resistant to neat moral categories."
     },
     {
-      "character_id": "alice",
-      "name": "Alice",
-      "archetype": "Curious child / traveler",
-      "personality_summary": "Curious, practical, skeptical of nonsense, adaptable, candid, and willing to question rules that make no sense."
+      "character_id": "odysseus",
+      "name": "Odysseus",
+      "archetype": "Cunning king / voyager",
+      "personality_summary": "Resourceful, pragmatic, persuasive, flexible, and inclined to solve problems through clever workarounds rather than frontal confrontation."
     },
     {
-      "character_id": "athena",
-      "name": "Athena",
-      "archetype": "Goddess of wisdom / strategy",
-      "personality_summary": "Strategic, rational, orderly, pragmatic, and comfortable making difficult judgments with a long view."
+      "character_id": "confucius",
+      "name": "Confucius",
+      "archetype": "Philosopher / teacher",
+      "personality_summary": "Orderly, reflective, humane, respectful of institutions when they deserve respect, and interested in how personal conduct shapes social systems."
     }
   ],
   "usernames": [
@@ -53,31 +53,31 @@
   "threads": [
     {
       "thread_id": "thread-01",
-      "category": "Technology / AI Governance",
+      "category": "Technology / Cybersecurity",
       "news": {
-        "headline": "Trump names intelligence chief Clayton as AI czar, to head task force, WSJ reports",
+        "headline": "South Korea's Lee says AI appears to have been used in bank hacks",
         "publisher": "Reuters",
-        "published_at": "2026-10-03T22:46:00Z",
-        "url": "https://www.reuters.com/world/us/jay-clayton-lead-trumps-ai-task-force-deliver-report-120-days-wsj-reports-2026-10-03/",
-        "summary": "The Trump administration has named Director of National Intelligence Jay Clayton to lead a new White House AI panel that is expected to report within 120 days on risks, opportunities and federal response mechanisms.",
+        "published_at": "2026-10-06T02:13:27Z",
+        "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+        "summary": "South Korean authorities are investigating cyberattacks against major commercial banks after President Lee Jae Myung said there were signs AI had been used in some incidents.",
         "verified_facts": [
-          "Reuters reported, citing the Wall Street Journal, that President Donald Trump appointed Director of National Intelligence Jay Clayton as the administration's AI czar.",
-          "The panel is tasked with reporting within 120 days on risks and opportunities posed by AI.",
-          "The group is being referred to by the administration as the 'Super Intelligence Force.'",
-          "The panel will review AI-related risks and current government reporting mechanisms for breaches, hacks and other incidents, and recommend ways to strengthen federal-response capabilities under existing authorities.",
-          "Vice chairs are expected to include Emil Michael, Scott Kupor and FTC Chair Andrew Ferguson, with senior administration officials and external advisers also participating."
+          "President Lee Jae Myung said signs had emerged that AI was used in some recent hacking incidents against banks.",
+          "South Korean police launched a full-scale investigation into attacks that exposed some customers' personal information.",
+          "Shinhan Bank and KB Kookmin Bank reported attacks, and Yonhap reported incidents at Hana Bank and Woori Bank as well.",
+          "Financial regulators urged banks to strengthen vigilance and shared technical information to support countermeasures.",
+          "Authorities had not publicly detailed the specific AI tools allegedly used or the full extent of their role."
         ],
-        "source_note": "Reuters report published Oct. 3, 2026, summarizing a Wall Street Journal interview and task-force details; some organizational details are attributed by Reuters to the Journal."
+        "source_note": "Reuters report published Oct. 6, 2026. The role of AI is described by officials as apparent or suspected, not yet fully established."
       },
       "comments": [
         {
           "comment_id": "t1-c1",
           "parent_comment_id": null,
           "username": "green",
-          "text": "Before deciding whether this is strong oversight or weak oversight, I want to separate the title from the authority. A 120-day panel that recommends changes under existing powers is not the same thing as a regulator that can impose rules.",
+          "text": "The important distinction is whether AI changed the attack itself or mostly changed the speed and scale. Those lead to different defenses. 'AI was involved' is interesting, but it is not yet a mechanism.",
           "reactions": [
             {
-              "username": "red",
+              "username": "blue",
               "emoji": "👍"
             }
           ]
@@ -86,11 +86,11 @@
           "comment_id": "t1-c2",
           "parent_comment_id": "t1-c1",
           "username": "blue",
-          "text": "wait—120 days to study something that changes every week? I get why they need a report, but that timeline is doing a lot of work 😬",
+          "text": "Yep. And while everyone figures that out, give customers one clear place to check whether their data was hit and what they should change. Boring response plans are underrated.",
           "reactions": [
             {
-              "username": "purple",
-              "emoji": "😂"
+              "username": "red",
+              "emoji": "👍"
             }
           ]
         },
@@ -98,19 +98,19 @@
           "comment_id": "t1-c3",
           "parent_comment_id": null,
           "username": "red",
-          "text": "The membership may matter more than the title. Intelligence, defense, treasury and the FTC in one room gives the panel leverage through coordination even if its formal powers are limited.",
+          "text": "Banks sell trust as part of the product. If customers learn about weak defenses only after their information is exposed, the gap between the promise and the lived result matters more than whatever fashionable label gets attached to the attack.",
           "reactions": [
             {
-              "username": "green",
+              "username": "purple",
               "emoji": "🤔"
             }
           ]
         },
         {
           "comment_id": "t1-c4",
-          "parent_comment_id": null,
-          "username": "purple",
-          "text": "A report can be useful. It can also be a very elaborate way to discover that six agencies disagree.",
+          "parent_comment_id": "t1-c1",
+          "username": "yellow",
+          "text": "Call the attacker clever later. First close the hole.",
           "reactions": [
             {
               "username": "blue",
@@ -120,32 +120,25 @@
         },
         {
           "comment_id": "t1-c5",
-          "parent_comment_id": "t1-c3",
-          "username": "yellow",
-          "text": "If breaches and hacks are already happening, make the reporting path clear now. People dealing with an incident today cannot wait four months for the perfect process.",
+          "parent_comment_id": null,
+          "username": "purple",
+          "text": "I'd assume the next attack uses a different route. Segment what can be segmented, have a fallback for customer verification, and don't make one detection method the whole plan.",
           "reactions": [
             {
-              "username": "red",
+              "username": "green",
               "emoji": "👍"
             }
           ]
         },
         {
           "comment_id": "t1-c6",
-          "parent_comment_id": "t1-c1",
-          "username": "green",
-          "text": "Exactly. Incident response and long-term governance are related, but they are different problems. A good plan should not let one become an excuse for neglecting the other.",
-          "reactions": []
-        },
-        {
-          "comment_id": "t1-c7",
-          "parent_comment_id": "t1-c3",
-          "username": "red",
-          "text": "And the external advisers matter because the panel has two audiences at once: the agencies that must cooperate and the industry it wants to keep participating voluntarily.",
+          "parent_comment_id": "t1-c5",
+          "username": "blue",
+          "text": "Also: practice the fallback before 2 a.m. on breach day lol.",
           "reactions": [
             {
-              "username": "purple",
-              "emoji": "🤔"
+              "username": "yellow",
+              "emoji": "👍"
             }
           ]
         }
@@ -153,71 +146,40 @@
     },
     {
       "thread_id": "thread-02",
-      "category": "Europe / Security",
+      "category": "Science / Medicine",
       "news": {
-        "headline": "Germany's Merz arrives in Kyiv to the sound of sirens and explosions",
-        "publisher": "Reuters",
-        "published_at": "2026-10-04T04:53:00Z",
-        "url": "https://www.reuters.com/world/europe/germanys-merz-arrives-kyiv-finalize-drone-deal-release-aid-2026-10-04/",
-        "summary": "German Chancellor Friedrich Merz visited Kyiv amid renewed Russian attacks, bringing new military and energy-repair support while Germany and Ukraine move toward expanded joint weapons and drone production.",
+        "headline": "Nobel medicine prize goes to 3 scientists for shining light on brain activity",
+        "publisher": "Associated Press",
+        "published_at": "2026-10-05",
+        "url": "https://apnews.com/article/2efe9ee7eae9d808fd49a6da1f53ceba",
+        "summary": "Karl Deisseroth, Peter Hegemann and Georg Nagel received the 2026 Nobel Prize in Medicine for foundational work in optogenetics, which uses light-sensitive proteins and genetic techniques to control selected neurons.",
         "verified_facts": [
-          "Merz traveled to Kyiv on Oct. 4 as air-raid sirens and explosions were heard in the capital.",
-          "German officials said Merz would announce €1 billion in military aid and €350 million for energy-sector repairs.",
-          "Germany and Ukraine were expected to finalize a deal for joint production of several kinds of drones.",
-          "Reuters reported that a key focus is rapid production of anti-jet drones, alongside broader cooperation on long-range weapons.",
-          "Merz was also expected to press Ukraine on EU-backed reforms, including anti-corruption measures."
+          "The 2026 Nobel Prize in Medicine was awarded to Karl Deisseroth, Peter Hegemann and Georg Nagel.",
+          "Their work helped establish optogenetics, a method that can use light to activate or inhibit selected neurons after cells are made light-sensitive.",
+          "The technique has become an important research tool for studying brain circuits and behavior.",
+          "Researchers are exploring potential therapeutic applications, but many uses remain experimental.",
+          "The prize carries 12 million Swedish kronor."
         ],
-        "source_note": "Reuters report published Oct. 4, 2026, based on German government officials, statements from Merz and Zelenskiy, and reporting from Kyiv."
+        "source_note": "Associated Press report on the 2026 Nobel Prize in Physiology or Medicine and the development and uses of optogenetics."
       },
       "comments": [
         {
           "comment_id": "t2-c1",
           "parent_comment_id": null,
-          "username": "yellow",
-          "text": "The €350 million for energy repairs is not a side note. If heating and basic systems are being hit, keeping them working is part of protecting people right now.",
+          "username": "green",
+          "text": "This is the kind of tool where the first use is almost less interesting than the space of things it makes possible. Being able to target a circuit precisely turns a lot of vague questions about the brain into experiments you can actually design.",
           "reactions": [
             {
-              "username": "blue",
-              "emoji": "❤️"
+              "username": "purple",
+              "emoji": "🤔"
             }
           ]
         },
         {
           "comment_id": "t2-c2",
           "parent_comment_id": "t2-c1",
-          "username": "purple",
-          "text": "Repairing critical systems before winter gets worse is the sort of spending that is cheap compared with failure.",
-          "reactions": [
-            {
-              "username": "yellow",
-              "emoji": "👍"
-            }
-          ]
-        },
-        {
-          "comment_id": "t2-c3",
-          "parent_comment_id": null,
-          "username": "red",
-          "text": "The joint-production piece makes the relationship more durable than a one-way transfer. Ukraine gets supply and Germany gets industrial experience with technologies being tested under real pressure.",
-          "reactions": [
-            {
-              "username": "green",
-              "emoji": "👍"
-            }
-          ]
-        },
-        {
-          "comment_id": "t2-c4",
-          "parent_comment_id": "t2-c3",
           "username": "blue",
-          "text": "The anti-jet drone part is kind of wild. Is this basically a race to build counters faster because the attack tech keeps changing?",
-          "reactions": []
-        },
-        {
-          "comment_id": "t2-c5",
-          "parent_comment_id": null,
-          "username": "green",
-          "text": "There are several claims bundled into the visit: solidarity, immediate aid, repairs, joint production and reform pressure. Those should be judged separately rather than treating the visit itself as proof that all five will succeed.",
+          "text": "And the research-tool stage is already valuable even if a treatment takes years. Not every invention has to jump straight to a product page.",
           "reactions": [
             {
               "username": "red",
@@ -226,26 +188,45 @@
           ]
         },
         {
-          "comment_id": "t2-c6",
-          "parent_comment_id": "t2-c5",
+          "comment_id": "t2-c3",
+          "parent_comment_id": null,
           "username": "yellow",
-          "text": "Yep. Announcements are easy to count. Deliveries, repairs and people getting through winter safely are what matter.",
+          "text": "Good. Learn what the switch does before selling everyone a switch.",
           "reactions": [
             {
-              "username": "purple",
+              "username": "blue",
+              "emoji": "😂"
+            }
+          ]
+        },
+        {
+          "comment_id": "t2-c4",
+          "parent_comment_id": "t2-c3",
+          "username": "red",
+          "text": "Exactly. Hope is useful, but patients deserve the difference between a powerful experimental method and a proven treatment stated plainly.",
+          "reactions": []
+        },
+        {
+          "comment_id": "t2-c5",
+          "parent_comment_id": null,
+          "username": "purple",
+          "text": "The path from research tool to therapy is probably several different problems pretending to be one: targeting, delivery, durability, safety. Solve whichever one is actually blocking the next step.",
+          "reactions": [
+            {
+              "username": "green",
               "emoji": "👍"
             }
           ]
         },
         {
-          "comment_id": "t2-c7",
-          "parent_comment_id": "t2-c4",
-          "username": "purple",
-          "text": "Four air alerts in one morning also makes the phrase normal working conditions sound a little ambitious.",
+          "comment_id": "t2-c6",
+          "parent_comment_id": "t2-c2",
+          "username": "blue",
+          "text": "Also 12 million kronor is a pretty decent peer-review bonus 😂",
           "reactions": [
             {
-              "username": "blue",
-              "emoji": "😬"
+              "username": "yellow",
+              "emoji": "😂"
             }
           ]
         }
@@ -253,31 +234,31 @@
     },
     {
       "thread_id": "thread-03",
-      "category": "Global Politics / Elections",
+      "category": "Climate / Adaptation",
       "news": {
-        "headline": "Brazilians head to polls in high-stakes, polarized election",
+        "headline": "Pacific leaders watch Tuvalu reclamation effort ahead of UN climate meet",
         "publisher": "Reuters",
-        "published_at": "2026-10-04T10:04:00Z",
-        "url": "https://www.reuters.com/world/americas/brazilians-head-polls-high-stakes-polarized-election-2026-10-04/",
-        "summary": "Brazil is voting in a highly polarized presidential and legislative election, with President Luiz Inácio Lula da Silva and Senator Flávio Bolsonaro leading a race shaped by economic anxiety, corruption scandals and foreign-policy tensions.",
+        "published_at": "2026-10-06",
+        "url": "https://www.reuters.com/sustainability/cop/pacific-leaders-watch-tuvalu-reclamation-effort-ahead-un-climate-meet-2026-10-06/",
+        "summary": "Pacific leaders visiting Tuvalu viewed a donor-funded land-reclamation and sea-wall project intended to reduce flooding risk as the low-lying nation faces rapidly rising seas.",
         "verified_facts": [
-          "If no presidential candidate wins more than 50% of valid votes, the top two advance to an Oct. 25 runoff.",
-          "Reuters reported surveys showing Lula and Flávio Bolsonaro roughly even in a likely runoff.",
-          "Voters are also electing all 513 members of the lower house and two-thirds of the Senate.",
-          "The campaign has been dominated by corruption scandals, economic concerns, crime and accusations of U.S. interference.",
-          "Reuters reported public debt above 82% of GDP and government growth forecasts of 2.0% for 2026 and 2.3% for 2027."
+          "Representatives from about 30 nations gathered in Tuvalu ahead of a pre-COP31 meeting.",
+          "A roughly $50 million donor-funded project is reclaiming land and constructing sea walls.",
+          "The project is expected to add about 21 hectares to Tuvalu's land area.",
+          "Sea level around Tuvalu has risen about 15 centimeters over the past three decades, roughly twice the global average reported by Reuters.",
+          "Projections cited by Reuters indicate sea level around Tuvalu could rise another roughly 30 centimeters by 2050."
         ],
-        "source_note": "Reuters election-day report published Oct. 4, 2026; polling, allegations and campaign claims are presented with their attributed uncertainty."
+        "source_note": "Reuters report published Oct. 6, 2026, on Tuvalu's adaptation project and Pacific climate diplomacy."
       },
       "comments": [
         {
           "comment_id": "t3-c1",
           "parent_comment_id": null,
           "username": "red",
-          "text": "If both leading candidates are rejected by roughly half the electorate, the legislative result matters almost as much as the presidential one. Whoever wins may still need a coalition broad enough to govern through a very polarized mandate.",
+          "text": "Twenty-one hectares of usable land is concrete. The moral test is whether wealthy countries admire the demonstration and then treat financing adaptation as someone else's problem.",
           "reactions": [
             {
-              "username": "green",
+              "username": "blue",
               "emoji": "👍"
             }
           ]
@@ -286,11 +267,11 @@
           "comment_id": "t3-c2",
           "parent_comment_id": null,
           "username": "blue",
-          "text": "If the big candidates skipped the debates and the policy discussion was thin, what are voters actually supposed to compare besides teams and scandals?",
+          "text": "Sea walls are not glamorous, but neither is having your house flood less often. Maintenance money had better be part of the plan too.",
           "reactions": [
             {
               "username": "yellow",
-              "emoji": "🤔"
+              "emoji": "👍"
             }
           ]
         },
@@ -298,54 +279,42 @@
           "comment_id": "t3-c3",
           "parent_comment_id": "t3-c2",
           "username": "green",
-          "text": "That is why campaign framing needs to be separated from evidence. Corruption allegations, tariffs, living costs and claims about democracy are different propositions; agreement with one does not prove the others.",
-          "reactions": []
+          "text": "The interesting systems question is how much protection comes from combining measures rather than asking one project to solve everything. Reclaimed elevation, barriers, drainage and building choices can reinforce each other.",
+          "reactions": [
+            {
+              "username": "purple",
+              "emoji": "👍"
+            }
+          ]
         },
         {
           "comment_id": "t3-c4",
           "parent_comment_id": null,
-          "username": "purple",
-          "text": "Debt above 82% of GDP and weak growth forecasts will still be there after the campaign slogans are packed away.",
+          "username": "yellow",
+          "text": "A conference can make promises. Dirt above the waterline is harder to argue with.",
           "reactions": [
             {
               "username": "red",
-              "emoji": "👍"
-            }
-          ]
-        },
-        {
-          "comment_id": "t3-c5",
-          "parent_comment_id": "t3-c4",
-          "username": "yellow",
-          "text": "And people are voting while dealing with prices, debt and crime now. I would rather hear what changes in daily life than another speech about how awful the other side is.",
-          "reactions": [
-            {
-              "username": "blue",
-              "emoji": "👍"
-            }
-          ]
-        },
-        {
-          "comment_id": "t3-c6",
-          "parent_comment_id": "t3-c2",
-          "username": "red",
-          "text": "In a race this polarized, identity itself becomes a coalition signal. That can win an election, but it does not automatically create room to pass a program afterward.",
-          "reactions": [
-            {
-              "username": "green",
               "emoji": "🤔"
             }
           ]
         },
         {
-          "comment_id": "t3-c7",
-          "parent_comment_id": "t3-c5",
-          "username": "blue",
-          "text": "yeah, 'pick the person you hate less' is not much of a policy platform",
+          "comment_id": "t3-c5",
+          "parent_comment_id": "t3-c3",
+          "username": "purple",
+          "text": "Exactly. You want layers. If one defense is overtopped, the next decision should already exist instead of being invented during the flood.",
+          "reactions": []
+        },
+        {
+          "comment_id": "t3-c6",
+          "parent_comment_id": "t3-c1",
+          "username": "red",
+          "text": "And calling adaptation necessary should not quietly become permission to stop reducing the cause. Those are two obligations, not substitutes.",
           "reactions": [
             {
-              "username": "purple",
-              "emoji": "😂"
+              "username": "green",
+              "emoji": "👍"
             }
           ]
         }
@@ -353,31 +322,31 @@
     },
     {
       "thread_id": "thread-04",
-      "category": "Law / Climate",
+      "category": "Energy / Markets",
       "news": {
-        "headline": "US Supreme Court to kick off term with bid by Big Oil to toss climate suits",
+        "headline": "Oil slips as Mideast exports, G7 stockpile ease supply concerns",
         "publisher": "Reuters",
-        "published_at": "2026-10-04T10:05:00Z",
-        "url": "https://www.reuters.com/legal/government/us-supreme-court-kick-off-term-with-bid-by-big-oil-toss-climate-suits-2026-10-04/",
-        "summary": "The U.S. Supreme Court is opening its new term with a dispute over whether Boulder, Colorado, may pursue state-law climate damages claims against ExxonMobil and Suncor Energy.",
+        "published_at": "2026-10-06T00:39:15Z",
+        "url": "https://www.reuters.com/business/energy/oil-prices-slip-traders-weigh-strong-mideast-exports-against-gulf-tensions-2026-10-06/",
+        "summary": "Oil prices fell as resilient Middle Eastern exports and a coordinated G7 emergency-stockpile release eased immediate supply fears, although security risks around regional shipping remained elevated.",
         "verified_facts": [
-          "ExxonMobil and Suncor appealed after the Colorado Supreme Court allowed Boulder's lawsuit to proceed.",
-          "Boulder accuses the companies of state-law violations tied to climate change and alleged public deception about fossil-fuel risks.",
-          "The companies and the Trump administration argue federal law precludes Boulder's claims.",
-          "Reuters reported that nearly 60 state and local governments have brought similar suits against fossil-fuel companies.",
-          "Justice Samuel Alito has recused himself from the case, and a decision is expected by the end of June."
+          "Brent and U.S. crude prices fell in early trading on Oct. 6 as supply fears eased.",
+          "Middle Eastern crude exports outside Iran had recovered strongly despite disruption around the Strait of Hormuz.",
+          "The G7 agreed to release 100 million barrels from emergency reserves.",
+          "Saudi Arabia cut the selling price of its Arab Light crude to Asian buyers.",
+          "Reuters reported that renewed attacks on tankers and regional facilities continued to create significant security risk."
         ],
-        "source_note": "Reuters report published Oct. 4, 2026, describing the legal dispute and arguments expected at the start of the Supreme Court term."
+        "source_note": "Reuters market report published Oct. 6, 2026. Price moves reflect conditions at the time of publication and may change during the trading day."
       },
       "comments": [
         {
           "comment_id": "t4-c1",
           "parent_comment_id": null,
-          "username": "green",
-          "text": "The legal question is narrower than the political argument. Whether the companies misled the public and whether state law is a valid route for these claims are separate issues; the Court could resolve one without deciding the other.",
+          "username": "blue",
+          "text": "This is what emergency reserves are for, right? Not to make energy cheap forever—just to keep a disruption from turning into a panic while supply routes adjust.",
           "reactions": [
             {
-              "username": "red",
+              "username": "purple",
               "emoji": "👍"
             }
           ]
@@ -386,57 +355,50 @@
           "comment_id": "t4-c2",
           "parent_comment_id": null,
           "username": "purple",
-          "text": "Nearly 60 similar suits means the practical stakes are much bigger than one city. One ruling could erase a very large pile of legal bills.",
+          "text": "The route adjustments are the part I'd watch. If producers found workable alternatives, protect those options instead of assuming the original bottleneck is the only map.",
           "reactions": [
             {
-              "username": "blue",
+              "username": "green",
               "emoji": "🤔"
             }
           ]
         },
         {
           "comment_id": "t4-c3",
+          "parent_comment_id": "t4-c1",
+          "username": "green",
+          "text": "The price move is a useful reminder that a market responds to expected future availability, not only barrels physically missing today. Reserve releases can change expectations before they change every shipment.",
+          "reactions": []
+        },
+        {
+          "comment_id": "t4-c4",
           "parent_comment_id": null,
           "username": "yellow",
-          "text": "Whatever court ends up being the right one, communities still have repair, emergency and health costs. If one legal route closes, that does not make those costs disappear.",
+          "text": "Oil under threat, tankers under attack, price falls anyway. Markets are strange animals.",
           "reactions": [
             {
-              "username": "green",
-              "emoji": "👍"
+              "username": "blue",
+              "emoji": "😂"
             }
           ]
         },
         {
-          "comment_id": "t4-c4",
-          "parent_comment_id": "t4-c1",
-          "username": "red",
-          "text": "It is also a fight over institutional boundaries. States, companies and the federal government all care about the precedent because the answer affects leverage in cases far beyond Boulder.",
-          "reactions": []
-        },
-        {
           "comment_id": "t4-c5",
-          "parent_comment_id": "t4-c1",
-          "username": "blue",
-          "text": "So the Court could basically say 'wrong legal lane' without saying the underlying climate claim is false? That's the part I kept mixing together.",
+          "parent_comment_id": "t4-c4",
+          "username": "red",
+          "text": "And a lower price should not be mistaken for a resolved danger. Workers and crews still bear the physical risk even when traders become less frightened of shortage.",
           "reactions": [
             {
-              "username": "green",
+              "username": "yellow",
               "emoji": "👍"
             }
           ]
         },
         {
           "comment_id": "t4-c6",
-          "parent_comment_id": "t4-c5",
+          "parent_comment_id": "t4-c2",
           "username": "purple",
-          "text": "Yes. Less dramatic, probably more consequential.",
-          "reactions": []
-        },
-        {
-          "comment_id": "t4-c7",
-          "parent_comment_id": "t4-c3",
-          "username": "yellow",
-          "text": "Exactly. Procedure matters, but somebody still has to deal with the damage while the procedure gets sorted out.",
+          "text": "Exactly. Keep the workaround while the main route is shaky; don't celebrate by deleting the contingency plan.",
           "reactions": [
             {
               "username": "blue",
@@ -446,5 +408,13 @@
         }
       ]
     }
-  ]
+  ],
+  "mapping": {
+    "red": "frederick-douglass",
+    "blue": "benjamin-franklin",
+    "green": "ada-lovelace",
+    "yellow": "baba-yaga",
+    "purple": "odysseus"
+  },
+  "decoy_character_id": "confucius"
 }
